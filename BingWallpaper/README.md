@@ -24,7 +24,7 @@ in powershell **(USER)** for one time usage
 
 ![](https://i.imgur.com/nJzwOgD.png)
 
-6. And Click on Finish Congrats you Have set the Daily Bing Wallpaper when you log on
+6. And Click on Finish and Congrats you Have set the Daily Bing Wallpaper when you log on
 
 ![](https://i.imgur.com/EyWiIWe.png)
 
