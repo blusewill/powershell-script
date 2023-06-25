@@ -2,7 +2,7 @@
 Change your Wallpaper to Bing Daily Wallpaper
 ## One Time Usage
 Run :
-``raw.githubusercontent.com/blusewill/powershell-script/main/BingWallpaper/get-wallpaper.ps1`` 
+``irm raw.githubusercontent.com/blusewill/powershell-script/main/BingWallpaper/get-wallpaper.ps1 | iex`` 
 in powershell **(USER)** for one time usage
 
 ## Change Wallpaper Everyday or Every Hour etc...
@@ -20,7 +20,7 @@ in powershell **(USER)** for one time usage
 
 ![](https://i.imgur.com/PR4hRr6.png)
 
-5. Type ``powershell`` in the Program and add ``raw.githubusercontent.com/blusewill/powershell-script/main/BingWallpaper/get-wallpaper.ps1`` in Add arguments (optional)
+5. Type ``powershell`` in the Program and add ``irm raw.githubusercontent.com/blusewill/powershell-script/main/BingWallpaper/get-wallpaper.ps1 | iex`` in Add arguments (optional)
 
 ![](https://i.imgur.com/nJzwOgD.png)
 
