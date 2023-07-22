@@ -1,4 +1,6 @@
-﻿# Bing Wallpaper
+# NOT RECOMMED PLEASE USE (Dynamic Theme)[https://www.microsoft.com/store/productId/9NBLGGH1ZBKW] instead.
+ 
+ # Bing Wallpaper
 Change your Wallpaper to Bing Daily Wallpaper
 ## One Time Usage
 Run :
