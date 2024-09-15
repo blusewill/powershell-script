@@ -43,3 +43,5 @@ if ($allPatternsFound) {
 
 Remove-Item "$PWD/result.txt" -Force
 
+Write-Output "Press Any Key to Contiune."
+$null = $Host.UI.RawUI.ReadKey('NoEcho,IncludeKeyDown')
